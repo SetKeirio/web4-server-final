@@ -1,0 +1,16 @@
+repositories\UsersTable.class
+entities\ResultRequest.class
+util\Transformation.class
+rest\PenisData.class
+repositories\RepositoryInterface.class
+util\Transfer.class
+register\LoginException.class
+rest\UserData.class
+repositories\Data.class
+rest\Lab4_335099.class
+register\LoginEnum.class
+entities\User.class
+rest\ResultsData.class
+entities\Result.class
+register\LoginFilter.class
+repositories\ResultsTable.class
