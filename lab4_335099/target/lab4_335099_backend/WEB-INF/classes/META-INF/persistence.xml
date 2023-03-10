@@ -12,7 +12,7 @@
             <!-- Properties for Hibernate -->
             <property name="hibernate.connection.driver_class" value="org.postgresql.Driver"/>
             <property name="hibernate.connection.username" value="postgres"/>
-            <property name="hibernate.connection.password" value="!83738912?8floxy142!"/>
+            <property name="hibernate.connection.password" value="12345"/>
             <property name="hibernate.connection.url" value="jdbc:postgresql://localhost:5432/postgres"/>
             <property name="connection.pool_size" value="100"/>
             <property name="hibernate.hbm2ddl.auto" value="update"/>

@@ -32,7 +32,7 @@ public class UsersTable implements RepositoryInterface<User>{
 
     @Override
     public List<User> get() {
-        String q = Data.SELECT + Data.ALL + Data.FROM + Data.USER_TABLE;
+        String q = Data.SELECT + Data.RESULT + Data.FROM + Data.USER_TABLE + Data.RESULT;
         List<User> answer = Transfer.callbackInitialize(m -> m.createQuery(q, User.class).getResultList());
         return answer;
     }
@@ -55,9 +55,11 @@ public class UsersTable implements RepositoryInterface<User>{
         String username = (String) object;
         List<User> users = get();
         User answer = null;
-        for (User u: users){
-            if (u.getUsername().equals(username)){
-                answer = u;
+        if (users != null) {
+            for (User u : users) {
+                if (u.getUsername().equals(username)) {
+                    answer = u;
+                }
             }
         }
         return answer;

@@ -1,11 +1,12 @@
 repositories\UsersTable.class
 entities\ResultRequest.class
 util\Transformation.class
-rest\PenisData.class
 repositories\RepositoryInterface.class
 util\Transfer.class
+entities\UserRequest.class
 register\LoginException.class
 rest\UserData.class
+entities\Message.class
 repositories\Data.class
 rest\Lab4_335099.class
 register\LoginEnum.class

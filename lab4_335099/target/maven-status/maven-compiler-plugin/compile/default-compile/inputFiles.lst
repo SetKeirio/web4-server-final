@@ -2,7 +2,7 @@ C:\Users\Enzolio\IdeaProjects\lab4_335099\lab4_335099\src\main\java\util\Transfe
 C:\Users\Enzolio\IdeaProjects\lab4_335099\lab4_335099\src\main\java\util\Transformation.java
 C:\Users\Enzolio\IdeaProjects\lab4_335099\lab4_335099\src\main\java\entities\User.java
 C:\Users\Enzolio\IdeaProjects\lab4_335099\lab4_335099\src\main\java\rest\UserData.java
-C:\Users\Enzolio\IdeaProjects\lab4_335099\lab4_335099\src\main\java\rest\PenisData.java
+C:\Users\Enzolio\IdeaProjects\lab4_335099\lab4_335099\src\main\java\entities\Message.java
 C:\Users\Enzolio\IdeaProjects\lab4_335099\lab4_335099\src\main\java\repositories\UsersTable.java
 C:\Users\Enzolio\IdeaProjects\lab4_335099\lab4_335099\src\main\java\repositories\ResultsTable.java
 C:\Users\Enzolio\IdeaProjects\lab4_335099\lab4_335099\src\main\java\rest\Lab4_335099.java
@@ -11,6 +11,7 @@ C:\Users\Enzolio\IdeaProjects\lab4_335099\lab4_335099\src\main\java\entities\Res
 C:\Users\Enzolio\IdeaProjects\lab4_335099\lab4_335099\src\main\java\rest\ResultsData.java
 C:\Users\Enzolio\IdeaProjects\lab4_335099\lab4_335099\src\main\java\register\LoginException.java
 C:\Users\Enzolio\IdeaProjects\lab4_335099\lab4_335099\src\main\java\entities\Result.java
+C:\Users\Enzolio\IdeaProjects\lab4_335099\lab4_335099\src\main\java\entities\UserRequest.java
 C:\Users\Enzolio\IdeaProjects\lab4_335099\lab4_335099\src\main\java\register\LoginEnum.java
 C:\Users\Enzolio\IdeaProjects\lab4_335099\lab4_335099\src\main\java\repositories\Data.java
 C:\Users\Enzolio\IdeaProjects\lab4_335099\lab4_335099\src\main\java\register\LoginFilter.java
